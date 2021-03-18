@@ -16,7 +16,7 @@ Feel free to join our [Discord](http://discord.gg/2gdypBhsye)
 This script is finished but will later be <br>
 intergraded into the admin menu I am making for <br>
 RedM. Once the admin menu is finished you will <br>
-notified.<br><br>
+be notified.<br><br>
 
 You are free to use this script and make changes to it. <br>
 Just make sure you put my name and GitHub link in your upload.
