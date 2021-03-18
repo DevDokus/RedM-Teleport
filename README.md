@@ -1,6 +1,12 @@
 # RedM-Teleport (v1.0.0)
  Teleport to a map marker quick and easy!
 
+# Discord
+If you need any information about my script,<br>
+if you found a bug, if you have an idea for the <br>
+next version, or if you simply need some help.<br>
+Feel free to join our [Discord](http://discord.gg/2gdypBhsye)
+
 # Requirements
 This script is not depending on any other plugins <br>
 other then the VORP Framework. There are also no <br>
