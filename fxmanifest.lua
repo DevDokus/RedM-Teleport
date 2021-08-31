@@ -7,13 +7,13 @@ author 'DevDokus Github'
 version '1.0.0'
 
 client_scripts {
-  'config.lua',
-  'Core/client.lua'
+    'config.lua',
+    'Core/client.lua'
 }
 
 shared_script 'config.lua'
 
 server_scripts {
-  'config.lua',
-  'Core/server.lua'
+    'config.lua',
+    'Core/server.lua'
 }
