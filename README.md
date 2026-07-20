@@ -1,4 +1,4 @@
-# RedM-Teleport (v1.0.0)
+# RedM-Teleport (v1.1.0)
  Teleport to a map marker quick and easy!
 
 # Discord
